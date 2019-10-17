@@ -1,0 +1,15 @@
+.active a{
+    background-color : #ddcef2 !important;
+
+  }
+  .nav-pills > li.active > a{
+      color: purple;
+}
+
+.inactive a{
+    background-color : #FFE4E1 !important;
+  }
+
+.nav-pills > li.inactive > a{
+      color: purple;
+}
